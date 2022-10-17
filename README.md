@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rigues
+- 👋 Hi, I’m Rafael Rigues
 - 👀 I’m interested in retrogaming, retrocomputing and game development
 - 🌱 I’m currently learning Python, Markdown and Lua
 - 📫 How to reach me: rigues@gmail.com or @rafarigues on Twitter
